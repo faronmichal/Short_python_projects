@@ -1,3 +1,7 @@
+# code calculates balance between sick and healthy people given the starting numbers and falling sick/getting healthy ratios
+
+
+
 # sposób 1 (najszybszy), zwraca liczbę zdrowych i chorych osób w równowadze
 
 def balans(healthy_number, sick_number, falling_sick_rate, getting_healthy_rate):
